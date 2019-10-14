@@ -1,0 +1,13 @@
+{
+    "name": "xxx/3",
+    "authors": [{
+        "name": "Galina Is",
+        "email": "denis@isyanov.com"
+    }],
+    "require": {
+        "cboden/ratchet": "^0.4.1"
+    },
+    "autoload": {
+        "psr-4": { "app\\": "" }
+    }
+}
